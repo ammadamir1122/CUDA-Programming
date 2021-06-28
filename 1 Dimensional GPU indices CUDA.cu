@@ -1,5 +1,5 @@
-/* Name: task5.cu
-*/
+// Printing the values of an array from 0 to 15 
+
 #include <stdio.h>
 __global__ void myHelloOnGPU(int *array) {
     array[blockIdx.x] = blockIdx.x
