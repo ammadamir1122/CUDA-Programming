@@ -6,7 +6,7 @@
 # Login to the GPU From LINUX:
 Just give the following command from any terminal  
 Command: ssh (ip-address of Your GPU) -l (Your User Name) -XY  
-Remeber to specify the ip-address and username in the above command
+Remeber to specify the ip-address and username in the above command.  
 
 # Login to the GPU from Windows:
 1. Download and run/install the Putty SSH client from:  
